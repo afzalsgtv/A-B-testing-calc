@@ -1,9 +1,0 @@
-streamlit>=1.49
-numpy>=1.26
-pandas>=2.2
-scipy>=1.13
-plotly>=5.22
-
-# Нужны только для ноутбука ab_testing.ipynb (сверка формул и графики)
-matplotlib>=3.8
-statsmodels>=0.14
